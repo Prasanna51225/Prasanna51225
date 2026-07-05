@@ -1,32 +1,28 @@
-<h1 align="center">Hi 👋, I'm Prasanna</h1>
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/2363347a-36c2-4116-9399-7ebc95149b2f" />
 
-<h4 align="center">
-AI/ML Engineer focused on production-grade systems — RAG pipelines, embedded ML, and satellite remote sensing.
-</h4>
+# Hi 👋, I'm Prasanna Kumar S
 
-<h4 align="center">
-Final-year B.Tech CCE student working across distributed AI systems, TinyML, and applied deep learning for agriculture and CubeSat networking.
-</h4>
-<br>
+### Final-Year B.Tech CCE Student
+
+I'm passionate about building production-inspired software across AI, distributed systems, backend engineering, and embedded computing. My projects span RAG pipelines, TinyML, and scalable backend systems, with a focus on solving real-world engineering problems.
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-handle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" height="22"/>
-    <b>Your Name</b>
+  <a href="https://www.linkedin.com/in/prasanna-kumar-s-306421332/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" height="22" alt="LinkedIn"/>
+    <b>Prasanna Kumar S</b>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22" height="22"/>
-    <b>your-email@example.com</b>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:prasanna51225@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22" height="22" alt="Email"/>
+    <b>prasanna51225@gmail.com</b>
   </a>
 </p>
-<br>
 
 ## About Me
 
 - Final-year **B.Tech, Computer & Communication Engineering** @ Amrita University
-- Building research-grade projects across **RAG systems, embedded ML, and remote sensing** — not tutorial clones
-- 2 research papers currently under peer review (CubeSat DTN routing, multimodal crop classification)
+- Building research-grade projects across **RAG systems, embedded ML, and remote sensing** 
+- Author of 3 accepted IEEE conference papers spanning AI, radar signal processing, and CubeSat networking.
 - Interested in systems that hold up under real constraints — memory limits, delivery guarantees, noisy sensor data
 - Always building, debugging, and pushing projects past the "demo" stage
 
@@ -69,7 +65,6 @@ Final-year B.Tech CCE student working across distributed AI systems, TinyML, and
 **Infra & Tools**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <br>
 
@@ -81,22 +76,22 @@ Final-year B.Tech CCE student working across distributed AI systems, TinyML, and
 
 **[Drone RPM Estimation](https://github.com/Prasanna51225/Drone-RPM-Estimation-MicroDoppler-CNN)** — CNN that classifies drone rotor RPM from radar micro-Doppler spectrograms.
 
-**Delta AgriOS** *(paper under review)* — Multimodal crop classification fusing Sentinel-1 SAR, Sentinel-2 optical, and IoT data using a custom HydraSAR-DNN architecture.
-
-**STER-A+** *(paper under review)* — Trust-aware, energy-aware DTN routing protocol for LEO CubeSat networks.
+**[Edge AI Engine Fault Detection](https://github.com/Prasanna51225/Edge-AI-Engine-Fault-Detection-System-)** — TinyML-based engine fault detection system that performs real-time inference using embedded AI.
 
 <br>
 
 ## Currently Learning
 
-- CubeSat networking protocols and delay-tolerant routing
-- SHAP-based explainability for multimodal remote sensing models
-- Agentic RAG evaluation loops
-- Automotive embedded stacks — CAN bus, FreeRTOS
+- LLMs & AI Agents
+- LangGraph & AI Orchestration
+- MLOps & Model Deployment
+- Distributed Systems
+- System Design
+- Embedded AI
 
 <br>
 
 ## Stats
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Prasanna51225&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak_label=true&hide_longest_streak_label=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Prasanna51225&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 </p>
